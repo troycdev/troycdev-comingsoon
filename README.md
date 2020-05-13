@@ -2,7 +2,7 @@
 
 ### Description
 
-I created this coming soon page as a placeholder while I redevelop my personal site.
+I developed this coming soon page as a placeholder while I redevelop my personal site.
 
 ### Deployment
 
