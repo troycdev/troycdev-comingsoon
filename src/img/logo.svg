@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 512 509" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><path d="M0,254.295c0,-140.349 114.584,-254.295 255.72,-254.295c141.136,0 255.72,113.946 255.72,254.295c0,140.349 -114.584,254.295 -255.72,254.295c-141.136,0 -255.72,-113.946 -255.72,-254.295Z" style="fill:url(#_Linear1);"/><clipPath id="_clip2"><path d="M0,254.295c0,-140.349 114.584,-254.295 255.72,-254.295c141.136,0 255.72,113.946 255.72,254.295c0,140.349 -114.584,254.295 -255.72,254.295c-141.136,0 -255.72,-113.946 -255.72,-254.295Z"/></clipPath><g clip-path="url(#_clip2)"><path d="M26.579,367.367l130.585,-135.171l39.827,46.103l126.723,-168.964l174.515,231.48l12.552,189.24l-483.478,-8.448l-0.724,-154.24Z" style="fill:#fff;"/></g><defs><linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3.11421e-14,-508.59,511.44,3.13167e-14,255.72,508.59)"><stop offset="0" style="stop-color:#029c69;stop-opacity:1"/><stop offset="1" style="stop-color:#037e71;stop-opacity:1"/></linearGradient></defs></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.82682e-16,-2.98343,2.55924,1.56708e-16,-627.014,1676.69)">
+        <ellipse cx="381" cy="456" rx="181" ry="211" style="fill:url(#_Linear1);"/>
+        <clipPath id="_clip2">
+            <ellipse cx="381" cy="456" rx="181" ry="211"/>
+        </clipPath>
+        <g clip-path="url(#_clip2)">
+            <g transform="matrix(2.05242e-17,0.390741,-0.335185,2.3926e-17,562,245)">
+                <path d="M0,820L328,492L416,580L716,280L1080,644L1080,1080L0,1080L0,820Z" style="fill:white;"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(362,0,0,422,200,456)"><stop offset="0" style="stop-color:rgb(29,151,108);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,89,70);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
